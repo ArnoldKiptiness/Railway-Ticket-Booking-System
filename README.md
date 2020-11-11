@@ -7,5 +7,5 @@ This system created by Group 7, will allow people to book tickets/ reserve seats
 <img src="downloads/railway.jpg" >
 
 ![](downloads/railway.jpg)
-![](downloads/ticketbooking.jpg)
+![](Railway-Ticket-Booking-System/ticketbooking.jpg)
 
